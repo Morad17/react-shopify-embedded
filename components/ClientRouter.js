@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ClientRouter = () => {
-  return <div></div>;
+  return <div>router</div>;
 };
 
 export default ClientRouter;
